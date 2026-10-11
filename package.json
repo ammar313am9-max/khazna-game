@@ -1,0 +1,22 @@
+{
+  "name": "khaznat-aljawaez",
+  "version": "1.0.0",
+  "private": true,
+  "description": "خزنة الجوائز — لعبة تخمين الرمز السري المكوّن من 7 أرقام مع نظام إحالة ومحاولات وشحن ولوحة تحكم للأدمن",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "game",
+    "vault",
+    "sqlite",
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}
